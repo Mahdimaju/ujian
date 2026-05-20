@@ -1,0 +1,5 @@
+colgroup {
+    display: table-column-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
